@@ -1,3 +1,16 @@
 venv/
 __pycache__/
 *.log
+my_env/
+venv/
+.env/
+__pycache__/
+*.pyc
+*.pyo.cache/
+huggingface/
+**/huggingface/
+**/.cache/
+*.bin
+*.pt
+*.pth
+*.safetensors
